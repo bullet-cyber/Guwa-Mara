@@ -67,7 +67,7 @@ module.exports = (
 
 			case "message_reaction":
 				// 🟡 Custom unsend logic for bot reaction
-				if (["🤦", "😠", "😡", "🤬"].includes(event.reaction)) {
+				if (["🤦‍♂️", "😠", "🙂", "😾"].includes(event.reaction)) {
 					if (event.senderID === api.getCurrentUserID()) {
 						const adminBotList = global.GoatBot.config.adminBot || []; // Ensure this is defined in config
 						if (adminBotList.includes(event.userID)) {
