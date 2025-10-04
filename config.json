@@ -29,7 +29,7 @@
     ]
   },
   "nickNameBot": "",
-  "prefix": "/",
+  "prefix": "🪼",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
