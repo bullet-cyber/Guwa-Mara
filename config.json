@@ -13,22 +13,22 @@
   "notesLanguage": "en",
   "adminOnly": {
     "enable": false,
-    "ignoreCommand": [100090095242819]
+    "ignoreCommand": [100012826415396]
   },
   "adminBot": [
+    "100012826415396",
     "1086955587",
-    "100090095242819",
-    "61572915213085"
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100090095242819",
-      "61572915213085",
-      "1086955587"
+      "100012826415396",
+      "1086955587",
+      ""
     ]
   },
-  "nickNameBot": "«⌈ ❰ 𝐈.𝐌.𝐒  ✨ 𝐀𝐃𝐌𝐈𝐍 🍒   ❿ ❱ ⌉»",
+  "nickNameBot": "",
   "prefix": "/",
   "database": {
     "type": "sqlite",
